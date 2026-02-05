@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a third-year Computer Science CO-OP student at the University of Ottawa🏫.</p>
+<p align="left">I am a fourth-year Computer Science CO-OP student at the University of Ottawa🏫.</p>
 
 ###
 
