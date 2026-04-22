@@ -1,4 +1,4 @@
-<h1 align="left">Hi! I'm Vinusha✨</h1>
+<h1 align="left">Hi, I'm Vinusha!</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🚀 Programming since 2021!<br>💻 I'm currently learning web and app development<br>🌐 Based in Toronto and Ottawa<br><br>⬇️ Feel free to connect with me :)</p>
+<p align="left">🚀 Programming since 2021!<br>🌐 Based in Toronto and Ottawa<br><br>⬇️ Feel free to connect with me :)</p>
 
 ###
 
